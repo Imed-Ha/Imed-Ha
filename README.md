@@ -1,6 +1,6 @@
 
 
-Imed-eddine Haouli, a PhD student in computer Science 
+Imed-eddine Haouli, a PhD student in computer Science | Intel® Student Ambassador for oneAPI | Computer Science Teacher 
 - 🔭 I’m currently working on medical image analysis using deep learning
 - 🌱 I'm currently learning AI in healthcare
 - 👯 I’m looking to collaborate on computer vision and data analysis projects.
